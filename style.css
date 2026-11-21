@@ -52,3 +52,12 @@ p {
     margin: 16px auto;
     background-color: #f378a5; 
 }
+/* unvisited link */
+a:link {
+  color: rgb(185, 99, 202);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(231, 182, 91);
+}
